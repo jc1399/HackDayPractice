@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to THE PKJC Github page
 
 You can use the [editor on GitHub](https://github.com/jc1399/HackDayPractice/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
